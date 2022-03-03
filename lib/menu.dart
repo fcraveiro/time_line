@@ -20,34 +20,24 @@ class _MenuState extends State<Menu> {
         child: Column(
           children: [
             const SizedBox(
-              height: 65,
+              height: 70,
             ),
             ElevatedButton(
               style: elevatedEstilo,
               onPressed: () {
-                Get.toNamed("/pagina1/");
-              },
-              child: const Text('Pagina 1'),
-            ),
-            const SizedBox(
-              height: 30,
-            ),
-            ElevatedButton(
-              style: elevatedEstilo,
-              onPressed: () {
-                Get.toNamed("/pagina2/");
-              },
-              child: const Text('Pagina 2'),
-            ),
-            const SizedBox(
-              height: 30,
-            ),
-            ElevatedButton(
-              style: elevatedEstilo,
-              onPressed: () {
-                Get.toNamed("/pagina3/");
+                Get.toNamed("/exemplo1/");
               },
               child: const Text('Exemplo Vertical'),
+            ),
+            const SizedBox(
+              height: 30,
+            ),
+            ElevatedButton(
+              style: elevatedEstilo,
+              onPressed: () {
+                Get.toNamed("/exemplo2/");
+              },
+              child: const Text('Exemplo Diferente'),
             ),
           ],
         ),
