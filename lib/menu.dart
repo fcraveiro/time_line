@@ -39,6 +39,16 @@ class _MenuState extends State<Menu> {
               },
               child: const Text('Pagina 2'),
             ),
+            const SizedBox(
+              height: 30,
+            ),
+            ElevatedButton(
+              style: elevatedEstilo,
+              onPressed: () {
+                Get.toNamed("/pagina3/");
+              },
+              child: const Text('Exemplo Vertical'),
+            ),
           ],
         ),
       ),

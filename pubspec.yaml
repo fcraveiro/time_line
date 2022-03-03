@@ -19,6 +19,7 @@ dependencies:
   get_storage: ^2.0.3                   # Basico
   google_fonts: ^2.2.0                  # Basico
   supabase: ^0.2.10                     # Basico
+  timeline_tile: ^2.0.0
   cupertino_icons: ^1.0.2           
   
 dev_dependencies:

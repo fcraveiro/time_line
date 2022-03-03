@@ -1,4 +1,5 @@
 import 'package:time_line/paginas/pagina2.dart';
+import 'package:time_line/paginas/pagina3.dart';
 
 import '/menu.dart';
 import '/paginas/pagina1.dart';
@@ -16,6 +17,10 @@ rotas() {
     GetPage(
         name: '/pagina2/',
         page: () => const Pagina2(),
+        transition: Transition.zoom),
+    GetPage(
+        name: '/pagina3/',
+        page: () => const Example5Vertical(),
         transition: Transition.zoom),
   ];
 }
