@@ -23,7 +23,7 @@ Flutter (Channel stable, 2.10.2, locale pt-BR)
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width:650px;">
 	<tbody>
 		<tr>
-			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156654615-8afd7546-c323-44f8-b22f-ee8360789204.png" style="width: 290px height: 500px;" /></td>
+			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156654800-c088158d-9c46-4420-987c-5822a6ea9500.png" style="width: 290px height: 500px;" /></td>
 			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156654039-e517c80f-ae27-42d2-9f13-2b82da11e8f3.png" style="width: 290px height: 500px;" /></td>
 			<td><img alt="" src="https://user-images.githubusercontent.com/31604881/156654039-e517c80f-ae27-42d2-9f13-2b82da11e8f3.png" style="width: 290px height: 500px;" /></td>
         </tr>        
